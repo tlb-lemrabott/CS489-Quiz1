@@ -1,0 +1,8 @@
+Functional Requirements for the system:
+
+* User functionalities:
+-Serach contact
+-Add new contact
+-Update contact
+-Delete contact
+-merge duplicate contact

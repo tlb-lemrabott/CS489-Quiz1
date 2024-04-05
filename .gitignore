@@ -4,8 +4,8 @@ target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
-ContactManagementCLI/.idea/
-ContactManagementCLI/target/
+Task2.2/ContactManagementCLI/.idea/
+Task2.2/ContactManagementCLI/target/
 *.iws
 *.iml
 *.ipr
